@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "b776176a5037dd8e",
+    "id": "9c16dfd91102ca69",
     "type": "split",
     "children": [
       {
-        "id": "9111d923018d779c",
+        "id": "bf59ee8c67f0dfb5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MySQL基础.md",
+            "file": "map.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0a205fb7a9f37525",
+    "id": "79e5bb0c99c81bd1",
     "type": "split",
     "children": [
       {
-        "id": "2a8be6e0abb137ce",
+        "id": "856dd6d5902c214e",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf8f8d3ed64ed80",
+            "id": "cc55e19676030728",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "c1d7905fdf2608b7",
+            "id": "fa2ec308981481dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,36 +50,34 @@
             }
           },
           {
-            "id": "fa2ca6fec87ba684",
+            "id": "549cfd8534dd4d5e",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "40805c440d1e1a8c",
+    "id": "1f81a0447280cc4f",
     "type": "split",
     "children": [
       {
-        "id": "1697b17a2293c1e1",
+        "id": "1d042d25d3fdfea9",
         "type": "tabs",
         "children": [
           {
-            "id": "d55a262ffd753f08",
+            "id": "0502ed8441b4069a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL基础.md",
+                "file": "map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,19 +89,19 @@
             }
           },
           {
-            "id": "d1889d983eb493c6",
+            "id": "11ccf884b294eacf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL基础.md",
+                "file": "map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ff63f67dcf73efc3",
+            "id": "aa7ee7d16b09ca63",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,12 +112,12 @@
             }
           },
           {
-            "id": "9f1f6821171a5a52",
+            "id": "901f8cfbd1196ef3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL基础.md"
+                "file": "map.md"
               }
             }
           }
@@ -130,17 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1d7905fdf2608b7",
+  "active": "bf59ee8c67f0dfb5",
   "lastOpenFiles": [
-    "mysql_06外键.md",
-    "MySQL基础.md",
-    "mysql_10常用函数.md",
-    "mysql_08联表查询.md",
-    "mysql_06DQL查询数据.md",
-    "mysql_13权限以及备份.md",
-    "mysql_12索引.md",
-    "mysql_11事务.md",
-    "mysql_09分页和排序.md",
-    "mysql_07DML语言.md"
+    "vector.md",
+    "Vim.md"
   ]
 }
