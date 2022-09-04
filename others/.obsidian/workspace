@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "map.md",
-            "mode": "source",
+            "file": "vector.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map.md",
+                "file": "vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "map.md",
+                "file": "vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "map.md"
+                "file": "vector.md"
               }
             }
           }
@@ -130,7 +130,9 @@
   },
   "active": "bf59ee8c67f0dfb5",
   "lastOpenFiles": [
+    "map.md",
     "vector.md",
-    "Vim.md"
+    "Vim.md",
+    "常用.md"
   ]
 }
