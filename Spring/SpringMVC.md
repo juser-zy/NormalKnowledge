@@ -98,18 +98,18 @@ Model2把一个项目分成三部分，包括**视图、控制、模型。**
 
 3. 导入servlet和jsp的jar依赖
 
-   ```xml
-           <dependency>
-               <groupId>javax.servlet</groupId>
-               <artifactId>servlet-api</artifactId>
-               <version>2.5</version>
-           </dependency>
-           <dependency>
-               <groupId>javax.servlet.jsp</groupId>
-               <artifactId>jsp-api</artifactId>
-               <version>2.2</version>
-           </dependency>
-   ```
+```xml
+<dependency>
+   <groupId>javax.servlet</groupId>
+   <artifactId>servlet-api</artifactId>
+   <version>2.5</version>
+</dependency>
+<dependency>
+   <groupId>javax.servlet.jsp</groupId>
+   <artifactId>jsp-api</artifactId>
+   <version>2.2</version>
+</dependency>
+```
 
 4. 编写servlet类，用来出来用户的请求
 
@@ -492,8 +492,6 @@ SpringMVC的原理如下图所示：
 
    - < url-pattern > / </ url-pattern > 不会匹配到.jsp， 只针对我们编写的请求；即：.jsp 不会进入spring的 DispatcherServlet类 
    - < url-pattern > /* </ url-pattern > 会匹配 *.jsp，会出现返回 jsp视图 时再次进入spring的DispatcherServlet 类，导致找不到对应的controller所以报404错
-
-   
 
 5. 添加SpringMVC配置文件
 
@@ -970,10 +968,6 @@ SpringMVC的@RequestMapping 注解能够处理 HTTP 请求的方法, 比如 GET,
 
 其实上面两种场景现象就是所谓的小黄鸭调试法（Rubber Duck Debuging），又称橡皮鸭调试法，它是我们软件工程中最常使用调试方法之一。
 
-![image-20220518223019090](https://typora-picture1234.oss-cn-shenzhen.aliyuncs.com/typora/img/image-20220518223019090.png)
-
-
-
 # 5、数据处理及跳转
 
 ## 5.1、ModelAndView
@@ -1373,7 +1367,7 @@ SpringMVC给我们提供了一个过滤器 , 可以在web.xml中配置。修改�
 
 
 
-###    5.3.3、其他方式
+### 5.3.3、其他方式
 
 1. 修改tomcat配置文件 ：设置编码！
 

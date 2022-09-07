@@ -7,8 +7,12 @@
         "id": "a34e8748333ba6b9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MyBatis_demo05_日志.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyBatis_demo05_日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyBatis_demo05_日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyBatis_demo05_日志.md"
+              }
             }
           }
         ]
@@ -120,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37b96558166e5cb1",
+  "active": "a34e8748333ba6b9",
   "lastOpenFiles": [
     "MyBatis_demo07_Lombok.md",
     "MyBatis.md",

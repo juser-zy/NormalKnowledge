@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spring_demo06_使用java的方式配置spring.md",
+            "file": "SpringMVC.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 282.5
   },
   "right": {
     "id": "f2e19818596fd014",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring_demo06_使用java的方式配置spring.md",
+                "file": "SpringMVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring_demo06_使用java的方式配置spring.md",
+                "file": "SpringMVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring_demo06_使用java的方式配置spring.md"
+                "file": "SpringMVC.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "53ba3f104fad7221",
   "lastOpenFiles": [
-    "Spring.md",
+    "Spring_demo09_整合.md",
     "Spring_demo06_使用java的方式配置spring.md",
-    "Spring_demo05_autowired.md",
     "SpringMVC.md",
-    "Spring_demo04_di.md",
+    "Spring.md",
+    "Spring_demo08_Aop.md",
+    "Spring_demo09_整合mybatis.md",
+    "[Spring_17_AOP配置.md",
+    "Spring_17_AOP配置.md",
     "Spring_demo01_初学.md",
-    "Spring_demo03_spring配置.md",
-    "Spring_demo02_IOC创建对象方式.md",
-    "Annotation & Reflection.md",
-    "注解和反射.md"
+    "Spring_demo07_代理.md"
   ]
 }

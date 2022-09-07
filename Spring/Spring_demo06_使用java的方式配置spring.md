@@ -87,3 +87,16 @@ import org.springframework.context.annotation.Import;
 public class Config {  
 }
 ```
+
+**MyTest.java**
+```java
+public class MyTest {  
+    @Test  
+    public void test() {  
+        ApplicationContext context = new AnnotationConfigApplicationContext(Config.class);  
+        User getUser = (User) context.getBean("getUser");  
+        System.out.println(getUser.getName());  
+    }  
+  
+}
+```
