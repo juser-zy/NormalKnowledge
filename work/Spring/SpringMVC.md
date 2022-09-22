@@ -1,5 +1,6 @@
 代码见：https://gitee.com/zhayuyao/spring-mvc
 
+
 # 1、回顾MVC
 
 ## 1.1、什么是MVC
@@ -283,7 +284,6 @@ SpringMVC的原理如下图所示：
 在这里先听一遍原理，不理解没有关系，我们马上来写一个对应的代码实现大家就明白了，如果不明白，那就写10遍，没有笨人，只有懒人！
 
 # 3、第一个mvc程序
-
 ## 3.1、配置版
 
 ![image-20220515224953813](https://typora-picture1234.oss-cn-shenzhen.aliyuncs.com/typora/img/image-20220515224953813.png)

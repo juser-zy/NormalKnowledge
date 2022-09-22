@@ -1,3 +1,7 @@
 {
-  "theme": "system"
+  "theme": "moonstone",
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16
 }

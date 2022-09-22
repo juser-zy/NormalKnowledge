@@ -73,7 +73,7 @@
 
 
 
-## 12.1、回忆mybatis
+### 回忆mybatis
 
 1. 编写实体类
 
@@ -162,7 +162,7 @@
 
    
 
-## 12.2、mybatis-spring
+### mybatis-spring
 
 官方文档：[mybatis-spring –](http://mybatis.org/spring/zh/getting-started.html)
 
