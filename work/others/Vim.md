@@ -1,8 +1,9 @@
 ## Vim模式切换
+![](photo/Pasted%20image%2020220923152915.png)
 - <b>普通模式Normal->插入模式Insert</b>
 	- i  在光标前插入
 	- I  在行首插入
-	- o 在下一张插入
+	- o 在下一章插入
 	- a  在光标后插入
 	- A  在行尾插入
 - <b>插入模式Insert->普通模式Normal</b>
