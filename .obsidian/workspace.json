@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b9164aff6882f7c3",
+        "id": "ad3fc9f45033c9a6",
         "type": "tabs",
         "children": [
           {
-            "id": "63ceedf6c0c632a3",
+            "id": "878aeb330363cda1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "348be00f7c5d8f7d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/Spring/SpringMVC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowledge/Spring/SpringMVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowledge/Spring/SpringMVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "knowledge/Spring/SpringMVC.md"
+              }
             }
           }
         ]
@@ -148,17 +147,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "348be00f7c5d8f7d",
+  "active": "878aeb330363cda1",
   "lastOpenFiles": [
-    "README.md",
-    "Study.md",
-    "work/Wechat/小程序相关.md",
-    "note/工作/研究点.md",
-    "note/工作/基金书.md",
-    "diary/template/normalDemo.md",
-    "work/others/Vim.md",
-    "work/linux/Linux-grep、sed、awk.md",
-    "work/linux/Linux.md",
-    "work/others/常用.md"
+    "knowledge/Spring/Spring_demo09_整合.md",
+    "knowledge/Spring/Spring_demo08_Aop.md",
+    "knowledge/Spring/Spring_demo06_使用java的方式配置spring.md",
+    "knowledge/Spring/Spring_demo01_初学.md",
+    "knowledge/Spring/Spring.md",
+    "knowledge/Spring/Annotation & Reflection.md",
+    "knowledge/SpringBoot/springboot_demo02_yml配置.md",
+    "knowledge/SpringBoot/springboot.md",
+    "knowledge/SpringBoot/springboot_demo01_原理初探.md",
+    "knowledge/Vue/Vue.md"
   ]
 }
