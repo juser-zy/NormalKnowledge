@@ -3,5 +3,6 @@
   "translucency": false,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 21,
+  "accentColor": ""
 }
