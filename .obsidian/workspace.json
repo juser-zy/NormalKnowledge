@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3fc9f45033c9a6",
+        "id": "ec96dd7450f9237c",
         "type": "tabs",
         "children": [
           {
-            "id": "878aeb330363cda1",
+            "id": "8a2d57ba681a9dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Spring/SpringMVC.md",
+                "file": "knowledge/Java Basic/JVM/JVM理论.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e8c6819a09f83446",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/Spring/SpringMVC.md",
+                "file": "knowledge/Java Basic/JVM/JVM理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/Spring/SpringMVC.md",
+                "file": "knowledge/Java Basic/JVM/JVM理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/Spring/SpringMVC.md"
+                "file": "knowledge/Java Basic/JVM/JVM理论.md"
               }
             }
           }
@@ -147,17 +149,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "878aeb330363cda1",
+  "active": "1ea1582b3c5f3c85",
   "lastOpenFiles": [
-    "knowledge/Spring/Spring_demo09_整合.md",
-    "knowledge/Spring/Spring_demo08_Aop.md",
-    "knowledge/Spring/Spring_demo06_使用java的方式配置spring.md",
-    "knowledge/Spring/Spring_demo01_初学.md",
-    "knowledge/Spring/Spring.md",
-    "knowledge/Spring/Annotation & Reflection.md",
-    "knowledge/SpringBoot/springboot_demo02_yml配置.md",
-    "knowledge/SpringBoot/springboot.md",
-    "knowledge/SpringBoot/springboot_demo01_原理初探.md",
-    "knowledge/Vue/Vue.md"
+    "knowledge/Linux/Linux-grep、sed、awk.md",
+    "knowledge/Linux/Linux.md",
+    "knowledge/Outline.md",
+    "knowledge/Mysql/mysql_03字段属性.md",
+    "knowledge/Mysql/mysql_02操作数据库.md",
+    "knowledge/Mysql/mysql_01连接数据库.md",
+    "knowledge/Maven/Maven.md",
+    "knowledge/Mysql/mysql_13权限以及备份.md",
+    "knowledge/Mysql/mysql_09分页和排序.md",
+    "knowledge/Java Web/JavaWeb/Custom.md"
   ]
 }

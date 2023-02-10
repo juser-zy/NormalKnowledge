@@ -1,5 +1,13 @@
 {
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./photo"
+  "attachmentFolderPath": "./images",
+  "newFileLocation": "folder",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

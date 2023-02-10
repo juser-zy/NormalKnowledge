@@ -1,3 +1,80 @@
+### example
+>loginServlet
+
+```java
+public class loginServlet extends HttpServlet {  
+    @Override  
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {  
+        ServletContext context = this.getServletContext();  
+        resp.setContentType("text/html");  
+        resp.setCharacterEncoding("utf-8");  
+        req.setCharacterEncoding("utf-8");  
+  
+        String username = req.getParameter("username");  
+        String password = req.getParameter("password");  
+        String[] hobby = req.getParameterValues("hobbies");  
+  
+        System.out.println(username);  
+        System.out.println(password);  
+        System.out.println(Arrays.toString(hobby));  
+  
+  
+        req.getRequestDispatcher("/page/success.jsp").forward(req,resp);  
+    }  
+  
+    @Override  
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {  
+        doGet(req, resp);  
+    }  
+}
+```
+
+>success.jsp
+
+```java
+<%--  
+  Created by IntelliJ IDEA.  User: JWhale  Date: 2022/12/30  Time: 下午 4:30  To change this template use File | Settings | File Templates.--%>  
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>  
+<html>  
+<head>  
+    <title>Title</title>  
+</head>  
+<body>  
+<p1>真好啊</p1>  
+<br>  
+<%=request.getParameter("username")%>  
+<%=request.getParameter("password")%>  
+  
+<br>  
+${param.username}  
+${param.password}  
+${paramValues.hobbies[0]}  
+  
+  
+</body>  
+</html>
+```
+
+>index.jsp
+
+```java
+<h1>登录</h1>  
+<div style="text-align: center">  
+  <form action="${pageContext.request.contextPath}/login" method="post">  
+    用户名：<input type="text" name="username"><br>  
+    密  码：<input type="password" name="password"><br>  
+    爱  好：  
+    <input type="checkbox" name="hobbies" value="看电影"/>看电影  
+    <input type="checkbox" name="hobbies" value="阅读"/>阅读  
+    <input type="checkbox" name="hobbies" value="爬山"/>爬山  
+    <input type="checkbox" name="hobbies" value="摄影"/>摄影  
+    <br>  
+    <input type="submit"/>  
+  </form>  
+</div>
+```
+
+
 ### servletContext基本
 
 >核心代码
