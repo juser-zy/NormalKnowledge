@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ec96dd7450f9237c",
+        "id": "262b8b2b2fcb6cb9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2d57ba681a9dfc",
+            "id": "c6b1883f4934f95c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/Java Basic/JVM/JVM理论.md",
+                "file": "sn/具体/摘要.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a99e1a80d22e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sn/具体/介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,14 +76,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f731f67e5d57bfd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e8c6819a09f83446",
@@ -87,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/Java Basic/JVM/JVM理论.md",
+                "file": "sn/具体/摘要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/Java Basic/JVM/JVM理论.md",
+                "file": "sn/具体/摘要.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/Java Basic/JVM/JVM理论.md"
+                "file": "sn/具体/摘要.md"
               }
             }
           }
@@ -149,17 +167,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1ea1582b3c5f3c85",
+  "active": "c6b1883f4934f95c",
   "lastOpenFiles": [
-    "knowledge/Linux/Linux-grep、sed、awk.md",
-    "knowledge/Linux/Linux.md",
-    "knowledge/Outline.md",
-    "knowledge/Mysql/mysql_03字段属性.md",
-    "knowledge/Mysql/mysql_02操作数据库.md",
-    "knowledge/Mysql/mysql_01连接数据库.md",
-    "knowledge/Maven/Maven.md",
-    "knowledge/Mysql/mysql_13权限以及备份.md",
-    "knowledge/Mysql/mysql_09分页和排序.md",
-    "knowledge/Java Web/JavaWeb/Custom.md"
+    "sn/具体/介绍.md",
+    "sn/具体/摘要.md",
+    "sn/文献阅读/Swin-Unet.md",
+    "the second/AOD.md",
+    "the second/风场.md",
+    "other/每日积累/风云卫星.md",
+    "the second",
+    "sn/具体/实验.md",
+    "sn/数据集.md",
+    "sn/images/Pasted image 20230604141656 1.png",
+    "sn/images/Pasted image 20230623214913.png",
+    "sn/images/Pasted image 20230604141656.png",
+    "sn/images/Pasted image 20230531155757.png",
+    "sn/images/Pasted image 20230523104127.png",
+    "sn/images/Pasted image 20230523103940.png",
+    "sn/FY4A-B下载.md",
+    "sn/投稿CFP.md",
+    "sn/概览.md",
+    "diary/2023-04-05.md",
+    "diary/2023-04-04.md",
+    "sn/具体/相关工作.md",
+    "sn/具体/结束与讨论.md",
+    "sn/具体/辅助信息.md",
+    "sn/具体/方法.md",
+    "sn/具体/参考文献.md",
+    "方案/小技巧.md",
+    "专利/Untitled.md",
+    "方案/code/test.md",
+    "方案/code/参数量.md",
+    "方案/code/花分类参数量.md",
+    "sn/文献阅读/Focal-Unet.md",
+    "专利",
+    "Untitled.md",
+    "title.md",
+    "sn/具体/images/Pasted image 20230808162827.png",
+    "sn/具体/images/Pasted image 20230808162816.png",
+    "sn/具体/images/Pasted image 20230808135415.png",
+    "sn/具体/images/Pasted image 20230802220958.png",
+    "sn/联邦/images",
+    "sn/联邦",
+    "sn/具体/images",
+    "sn/具体",
+    "sn/文献阅读/images",
+    "sn/文献阅读/ResUnet-a/images",
+    "sn/文献阅读/ResUnet-a",
+    "sn/文献阅读"
   ]
 }
