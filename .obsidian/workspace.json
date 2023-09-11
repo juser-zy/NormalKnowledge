@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "262b8b2b2fcb6cb9",
+        "id": "684ce01b5237bce5",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b1883f4934f95c",
+            "id": "5638ae718773d409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sn/具体/摘要.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a99e1a80d22e5b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sn/具体/介绍.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sn/具体/摘要.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sn/具体/摘要.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sn/具体/摘要.md"
+                "file": "README.md"
               }
             }
           }
@@ -167,17 +155,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6b1883f4934f95c",
+  "active": "5638ae718773d409",
   "lastOpenFiles": [
+    "the second/AOD.md",
+    "the second/风场.md",
+    "sn/概览.md",
+    "fy",
+    "sn/数据集.md",
+    "knowledge/Maven/Maven.md",
     "sn/具体/介绍.md",
     "sn/具体/摘要.md",
     "sn/文献阅读/Swin-Unet.md",
-    "the second/AOD.md",
-    "the second/风场.md",
-    "other/每日积累/风云卫星.md",
+    "fy/other/每日积累/风云卫星.md",
     "the second",
     "sn/具体/实验.md",
-    "sn/数据集.md",
     "sn/images/Pasted image 20230604141656 1.png",
     "sn/images/Pasted image 20230623214913.png",
     "sn/images/Pasted image 20230604141656.png",
@@ -186,7 +177,6 @@
     "sn/images/Pasted image 20230523103940.png",
     "sn/FY4A-B下载.md",
     "sn/投稿CFP.md",
-    "sn/概览.md",
     "diary/2023-04-05.md",
     "diary/2023-04-04.md",
     "sn/具体/相关工作.md",
@@ -201,8 +191,6 @@
     "方案/code/花分类参数量.md",
     "sn/文献阅读/Focal-Unet.md",
     "专利",
-    "Untitled.md",
-    "title.md",
     "sn/具体/images/Pasted image 20230808162827.png",
     "sn/具体/images/Pasted image 20230808162816.png",
     "sn/具体/images/Pasted image 20230808135415.png",
@@ -213,7 +201,6 @@
     "sn/具体",
     "sn/文献阅读/images",
     "sn/文献阅读/ResUnet-a/images",
-    "sn/文献阅读/ResUnet-a",
-    "sn/文献阅读"
+    "sn/文献阅读/ResUnet-a"
   ]
 }
